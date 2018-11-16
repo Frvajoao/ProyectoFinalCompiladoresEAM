@@ -5,6 +5,8 @@
   "scripts": {
     "start": "node app.js"
   },
+  "author": "JoaoBetancourth",
+  "license": "MIT",
   "dependencies": {
     "ejs": "^1.0.0",
     "express": "^3.21.2",
